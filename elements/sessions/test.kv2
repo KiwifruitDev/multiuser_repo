@@ -411,7 +411,7 @@
 		"id" "elementid" "1db4b8ee-66da-433f-9ed2-92d81600e218"
 		"name" "string" "unnamed"
 		"position" "vector3" "0 0 64.03125"
-		"orientation" "quaternion" "0.048386097 0.0818490162 -0.5065857172 0.8569308519"
+		"orientation" "quaternion" "0.0150211472 0.0928666666 -0.1589662582 0.9827919006"
 	}
 	
 	"shape" "element" ""
