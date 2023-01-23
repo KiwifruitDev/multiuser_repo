@@ -410,7 +410,7 @@
 	{
 		"id" "elementid" "1db4b8ee-66da-433f-9ed2-92d81600e218"
 		"name" "string" "unnamed"
-		"position" "vector3" "152.6726531982 -91.1198425293 100"
+		"position" "vector3" "152.6726531982 -91.1198425293 0"
 		"orientation" "quaternion" "-0.2236263007 0.0616513863 0.9377394915 0.2585247159"
 	}
 	
