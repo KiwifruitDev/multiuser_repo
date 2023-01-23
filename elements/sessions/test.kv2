@@ -410,8 +410,8 @@
 	{
 		"id" "elementid" "1db4b8ee-66da-433f-9ed2-92d81600e218"
 		"name" "string" "unnamed"
-		"position" "vector3" "0 0 64.03125"
-		"orientation" "quaternion" "0.0092241419 0.2046297789 -0.0440766998 0.9778031111"
+		"position" "vector3" "250.4257354736 40.5090675354 130.4085540771"
+		"orientation" "quaternion" "0.3729052544 0.3819568455 -0.5907219052 0.6050605774"
 	}
 	
 	"shape" "element" ""
@@ -419,7 +419,7 @@
 	"children" "element_array" 
 	[
 	]
-	"fieldOfView" "float" "45.6000061035"
+	"fieldOfView" "float" "78"
 	"znear" "float" "3"
 	"zfar" "float" "28377.919921875"
 	"focalDistance" "float" "72"
